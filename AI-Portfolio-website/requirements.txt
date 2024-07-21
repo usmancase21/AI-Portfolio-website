@@ -1,4 +1,0 @@
-Streamlit
-openai
-request
-google.generativeai 
