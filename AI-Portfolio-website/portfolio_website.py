@@ -76,7 +76,7 @@ if model_option == "Usman Awan Portfolio ":
             st.write("Opportunity data scientist and generative AI engineer | Heaviest of drone making and flying | Passionate data scientist"
                      )
         with col2:
-            st.image("images/usman.jpg", use_column_width=True)
+            st.image("images/usman.jpg")
 
     with tab2:
         st.header("Usman Awan's AI Bot")
